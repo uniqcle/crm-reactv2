@@ -1,0 +1,31 @@
+{
+  "requests": [
+    {
+      "product": "course-php",
+      "name": "Екатерина Похоменко",
+      "phone": 4207775547,
+      "email": "pochomenko@mail.ru",
+      "status": "inwork",
+      "date": "03.07.2023",
+      "id": 1
+    },
+    {
+      "date": "03.07.2023",
+      "name": "Светлана Козырь",
+      "phone": 4207735557,
+      "email": "kozyr@seznam.cz",
+      "product": "course-html",
+      "status": "new",
+      "id": 2
+    },
+    {
+      "date": "03.07.2023",
+      "name": "Василий Пупкин",
+      "phone": 4207765557,
+      "email": "pupkin@mail.ru",
+      "product": "course-vue",
+      "status": "new",
+      "id": 3
+    }
+  ]
+}

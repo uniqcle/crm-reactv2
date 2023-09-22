@@ -1,0 +1,1 @@
+export const serverPath = 'https://trapezoidal-dorian-cotton.glitch.me/'; 
